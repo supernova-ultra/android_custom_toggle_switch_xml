@@ -1,0 +1,10 @@
+<Switch
+                android:thumb="@drawable/thumb_switch"
+                android:track="@drawable/track_switch"
+                android:minHeight="?attr/minTouchTargetSize"
+                android:id="@+id/switchLang"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/random_lang"
+                android:checked="true"
+                tools:ignore="UseSwitchCompatOrMaterialXml" />
